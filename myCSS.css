@@ -5,10 +5,10 @@ body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 }
 a:link {
-     color: #E0925A;
+     color: ##4A4A4E;
 }
 a:visited {
-     color: #EDB88B;
+     color: ##6A6567;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
