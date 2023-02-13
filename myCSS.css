@@ -5,14 +5,14 @@ body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 }
 .homePage {
-	background: #F2E2CE;
+	background: #D9CAC1;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #40170E;
+	background: #403120;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -22,7 +22,7 @@ body {
 	
 }
 .nav {
-	background: #7355C3F;
+	background: #735E45;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -38,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #DCEEF2;
+	background: #A69177;
 	margin: 0px;
 	float: left;
 	width: 100%;
