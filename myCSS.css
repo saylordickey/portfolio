@@ -5,23 +5,23 @@ body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 }
 a:link {
-     color: ##4A4A4E;
+     color: #BF6734;
 }
 a:visited {
-     color: ##6A6567;
+     color: #BF8F73;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
 }
 .homePage {
-	background: #DACBBC;
+	background: #Bf6734;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: ##DACBBC;
+	background: #A6583C;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -31,7 +31,7 @@ a:hover, a:active, a:focus {
 	
 }
 .nav {
-	background: ##E5E5E0;
+	background: #59281D;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -47,7 +47,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .footer {
-	background: ##3A3D39;
+	background: #BF6734;
 	margin: 0px;
 	float: left;
 	width: 100%;
